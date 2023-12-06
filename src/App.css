@@ -1,0 +1,7 @@
+.delText {position: absolute; z-index: 2;
+  transform: translate(-300%, 100%);
+  font-size: large;
+  cursor: pointer;
+}
+
+.delTodo:hover {color: red;}
